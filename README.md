@@ -6,7 +6,6 @@ L’objectif de ce projet est de créer un shell minimaliste.
 Vous en apprendrez beaucoup sur les processus et les descripteurs de fichier
 
 Votre shell doit :
-
 • Afficher un prompt en l’attente d’une nouvelle commande.
 • Posséder un historique fonctionnel.
 • Chercher et lancer le bon exécutable (en se basant sur la variable d’environnement PATH, ou sur un chemin relatif ou absolu).
